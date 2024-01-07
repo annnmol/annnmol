@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on AI Chatbots(react ts)
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Flutter / React native projects
+- 👯 I’m looking to collaborate on Nextjs / Flutter / React native projects
 - 📫 How to reach me: tanwaranmol6@gmail.com [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/annnmol) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmoltanwar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/annnmol) 
 
 <!--
